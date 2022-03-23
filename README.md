@@ -2,14 +2,14 @@
 Currency Convert
 
 #### Conversor de reais para Dólar, Euro e Bitcoin
-<img src = "imageREADME1.png" alt="imagem inicial" >
+<img src = "image readme\imageREADME1.png" alt="imagem inicial" >
 
 #### Opções de moedas para conversão:
-<img src = "imageREADME2.png" alt="imagem selecionando Dólar" >
+<img src = "image readme\imageREADME2.png" alt="imagem selecionando Dólar" >
 
-<img src = "imageREADME3.png" alt="imagem selecionando Euro" >
+<img src = "image readme\imageREADME3.png" alt="imagem selecionando Euro" >
 
-<img src = "imageREADME4.png" alt="imagem selecionando Bitcoin" >
+<img src = "image readme\imageREADME4.png" alt="imagem selecionando Bitcoin" >
 
 
 
